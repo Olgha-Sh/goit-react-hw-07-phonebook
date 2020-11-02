@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78bae2bf82169416999342160f778c1d",
+    "revision": "995bdeb6e670d860f362ed64c86a5156",
     "url": "/goit-react-hw-07-phonebook/index.html"
   },
   {
